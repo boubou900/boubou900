@@ -25,7 +25,7 @@
  
   - Family
   
-  - curiouseeee
+  - curious
 
  <br />
  
