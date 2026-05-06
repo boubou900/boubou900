@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Salut, je suis boubou<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
+    <h1>Salut, je suis Antoine<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1> 
  </div>
 
  <div align="center">
@@ -14,19 +14,8 @@
  <br />
  <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
  <p align="center">
-   <h3> Seventeen yo</h3>
  </p>
- 
-  - Ski, Skate, Surf, bmx...
-  
-  - Mathematics 
-    
-  - computer science
- 
-  - Family
-  
   - curious
-
  <br />
  
  ### - Languages et outils...
